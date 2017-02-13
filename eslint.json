@@ -1,0 +1,6 @@
+{
+  "extends": "",
+  "rules": {
+    "semi": ["warn", "never"]
+  }
+}
